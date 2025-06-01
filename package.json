@@ -1,5 +1,6 @@
 {
-  "name": "front-end",
+  "name": "myvitereact",
+   "homepage": "https://username.github.io/repo_name",
   "private": true,
   "version": "0.0.0",
   "type": "module",

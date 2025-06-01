@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
- base: "/deploy_react_app_github_pages_vercel",
+ base: "/myvitereact",
   build: {
     // ... other build options
   },
